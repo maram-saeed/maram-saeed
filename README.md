@@ -52,7 +52,7 @@
    
    🌐 **Fullstack-Dental-Clinic**
   <br>A full-stack dental solution featuring a staff desktop application and a patient booking web integrated with REST API.
-  <br>live demo : [Dental_Clinic](https://smilecare00.netlify.app/)
+  <br>Live demo : [Dental_Clinic](https://smilecare00.netlify.app/)
 
 <hr>
 
