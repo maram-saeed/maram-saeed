@@ -60,7 +60,7 @@
 
 <h2 align="left">Contact</h2>
 
-* Email: _[maramsaeedmuthannaqaid@gmail.com](mailto:maramsaeedmuthannaqaid@gmail.com)_
+* Email: _[maramqaid1@gmail.com](mailto:maramqaid1@gmail.com)_
 * Telegram: _@Maram_Q1_
 
 
