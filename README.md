@@ -61,7 +61,6 @@
 <h2 align="left">Contact</h2>
 
 * Email: _[maramqaid1@gmail.com](mailto:maramqaid1@gmail.com)_
-* Telegram: _@Maram_Q1_
 
 
 
